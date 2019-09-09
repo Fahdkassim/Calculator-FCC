@@ -1,0 +1,16 @@
+.Display {
+  margin-top: 4px;
+  margin-left: 4px;
+  width: 98%;
+  height: 80px;
+  color: black;
+  background-color: greenyellow;
+  font-family: "Lato";
+  font-weight: bold;
+  font-size: 30px;
+}
+.SecondDisplay {
+  width: 98%;
+  height: 20px;
+  background-color: black;
+}

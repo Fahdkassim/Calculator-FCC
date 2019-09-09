@@ -1,0 +1,10 @@
+.ClearButton {
+  background-color: #f0595f;
+  border-color: #b0353a;
+  font-size: 2rem;
+  color: white;
+  border-radius: 5px;
+}
+.ClearButton:hover {
+  background-color: #f17377;
+}

@@ -1,0 +1,11 @@
+.ResultButton {
+  background-color: #2e86c0;
+  border-color: #337cac;
+  font-size: 2rem;
+  color: white;
+  border-radius: 5px;
+  grid-area: 3/4/6/5;
+}
+.ResultButton:hover {
+  background-color: #4e9ed4;
+}

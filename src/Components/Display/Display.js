@@ -2,7 +2,7 @@ import React from "react";
 import classes from "./Display.css";
 const display = props => (
   <div>
-    <div className={classes.Display}>{props.show}</div>
+    <div className={classes.Display}>{props.children}</div>
   </div>
 );
 
